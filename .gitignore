@@ -1,0 +1,23 @@
+# Python & Colab Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Files (PENTING: Jangan upload data spasial ke GitHub)
+*.zip
+*.tar.gz
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.csv
+
+# Folder Data Spesifik (Sesuai script kamu)
+NASA-FIRMS Fire (New2)/
+Batas Adm Jambi/
+Hotspot Clean Jambi/
+
+# Output Images
+*.png
+*.jpg
